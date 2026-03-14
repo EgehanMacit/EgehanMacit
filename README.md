@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EgehanMacit</h1>
-<h3 align="center">A passionate Python & Application Developer from Turkey | Web Development, Automation Tools & Cybersecurity Enthusiast | Exploring Machine Learning</h3>
+<h3 align="center">I am a Junior Python & Application Developer from Turkey. I recently completed training in Web Development, Automation and Cybersecurity. I am exploring Machine Learning.</h3>
 
 
 
