@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm EgehanMacit</h1>
-<h3 align="center">I am a Junior Python & Application Developer from Turkey. I recently completed training in Web Development, Automation and Cybersecurity. I am exploring Machine Learning.</h3>
+<h3 align="center">A passionate Python & Application Developer from Turkey | Web Development, Automation Tools & Cybersecurity Enthusiast | Exploring Machine Learning</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egehanmacit&label=Profile%20views&color=0e75b6&style=flat" alt="egehanmacit" /> </p>
 
 - 🔭 I’m currently working on **Bist Streamlit App**
 
 - 🌱 I’m currently learning **CyberSecurity**
+
+- 👨‍💻 All of my projects are available at [emdevstudio.com](emdevstudio.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egehanmacit&show_icons=true&locale=en" alt="egehanmacit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egehanmacit&" alt="egehanmacit" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egehanmacit&label=Profile%20views&color=0e75b6&style=flat" alt="egehanmacit" /> </p>
